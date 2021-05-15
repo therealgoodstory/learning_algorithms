@@ -1,8 +1,8 @@
-import React from 'react';
+import { Link } from 'react-router-dom'
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
@@ -10,14 +10,13 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <a
+        <Link
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          to="/binary-search"
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </Link>
       </header>
     </div>
   );
