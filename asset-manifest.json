@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/therealgoodstory/learning_lgorithms/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/therealgoodstory/learning_lgorithms/static/js/main.bd7cbcb1.chunk.js",
+    "main.js.map": "/therealgoodstory/learning_lgorithms/static/js/main.bd7cbcb1.chunk.js.map",
+    "runtime-main.js": "/therealgoodstory/learning_lgorithms/static/js/runtime-main.455fcc6a.js",
+    "runtime-main.js.map": "/therealgoodstory/learning_lgorithms/static/js/runtime-main.455fcc6a.js.map",
+    "static/js/2.0449aef0.chunk.js": "/therealgoodstory/learning_lgorithms/static/js/2.0449aef0.chunk.js",
+    "static/js/2.0449aef0.chunk.js.map": "/therealgoodstory/learning_lgorithms/static/js/2.0449aef0.chunk.js.map",
+    "static/js/3.2c86d6fc.chunk.js": "/therealgoodstory/learning_lgorithms/static/js/3.2c86d6fc.chunk.js",
+    "static/js/3.2c86d6fc.chunk.js.map": "/therealgoodstory/learning_lgorithms/static/js/3.2c86d6fc.chunk.js.map",
+    "index.html": "/therealgoodstory/learning_lgorithms/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/therealgoodstory/learning_lgorithms/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0449aef0.chunk.js.LICENSE.txt": "/therealgoodstory/learning_lgorithms/static/js/2.0449aef0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/therealgoodstory/learning_lgorithms/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.455fcc6a.js",
+    "static/js/2.0449aef0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bd7cbcb1.chunk.js"
+  ]
+}
