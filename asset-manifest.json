@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/learning_algorithms/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/learning_algorithms/static/js/main.00f9a6bc.chunk.js",
-    "main.js.map": "/learning_algorithms/static/js/main.00f9a6bc.chunk.js.map",
-    "runtime-main.js": "/learning_algorithms/static/js/runtime-main.5894b055.js",
-    "runtime-main.js.map": "/learning_algorithms/static/js/runtime-main.5894b055.js.map",
-    "static/js/2.0449aef0.chunk.js": "/learning_algorithms/static/js/2.0449aef0.chunk.js",
-    "static/js/2.0449aef0.chunk.js.map": "/learning_algorithms/static/js/2.0449aef0.chunk.js.map",
-    "static/js/3.2c86d6fc.chunk.js": "/learning_algorithms/static/js/3.2c86d6fc.chunk.js",
-    "static/js/3.2c86d6fc.chunk.js.map": "/learning_algorithms/static/js/3.2c86d6fc.chunk.js.map",
+    "main.css": "/learning_algorithms/static/css/main.e9e6a036.chunk.css",
+    "main.js": "/learning_algorithms/static/js/main.989cb237.chunk.js",
+    "main.js.map": "/learning_algorithms/static/js/main.989cb237.chunk.js.map",
+    "runtime-main.js": "/learning_algorithms/static/js/runtime-main.53c0863b.js",
+    "runtime-main.js.map": "/learning_algorithms/static/js/runtime-main.53c0863b.js.map",
+    "static/js/2.4088a2d7.chunk.js": "/learning_algorithms/static/js/2.4088a2d7.chunk.js",
+    "static/js/2.4088a2d7.chunk.js.map": "/learning_algorithms/static/js/2.4088a2d7.chunk.js.map",
+    "static/js/3.35b7d2a7.chunk.js": "/learning_algorithms/static/js/3.35b7d2a7.chunk.js",
+    "static/js/3.35b7d2a7.chunk.js.map": "/learning_algorithms/static/js/3.35b7d2a7.chunk.js.map",
     "index.html": "/learning_algorithms/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/learning_algorithms/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0449aef0.chunk.js.LICENSE.txt": "/learning_algorithms/static/js/2.0449aef0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/learning_algorithms/static/media/logo.6ce24c58.svg"
+    "static/css/main.e9e6a036.chunk.css.map": "/learning_algorithms/static/css/main.e9e6a036.chunk.css.map",
+    "static/js/2.4088a2d7.chunk.js.LICENSE.txt": "/learning_algorithms/static/js/2.4088a2d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5894b055.js",
-    "static/js/2.0449aef0.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.00f9a6bc.chunk.js"
+    "static/js/runtime-main.53c0863b.js",
+    "static/js/2.4088a2d7.chunk.js",
+    "static/css/main.e9e6a036.chunk.css",
+    "static/js/main.989cb237.chunk.js"
   ]
 }
