@@ -1,23 +1,12 @@
 import { Link } from 'react-router-dom'
-import logo from './logo.svg';
 import './App.css';
 
 const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <Link
-          className="App-link"
-          to="/binary-search"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </Link>
-      </header>
+      <Link to="/binary-search" className="main-nav__link">
+        Binary Search
+      </Link>
     </div>
   );
 }
