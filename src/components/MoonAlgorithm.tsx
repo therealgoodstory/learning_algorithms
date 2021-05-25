@@ -3,10 +3,22 @@ import Navigation from './Navigation'
 
 const MoonAlgorithms = () => {
   const [cardNumber, setCardNumber] = useState("")
-  const [result, setResult] = useState("")
+  const [message, setMessage] = useState("")
 
   const onClick = () => {
-
+    const result = cardNumber
+    .split('')
+    .reduce((acc:number[], rec, idx) => {
+      if (idx % 2 === 0) {
+        const step1 = +rec * 2
+        step1 > 9 ? acc.push(step1 - 9) : acc.push(step1)
+      } else {
+        acc.push(+rec)
+      }
+      return acc
+    }, []).reduce((a, r) => a + r, 0)
+  
+    result % 10 === 0 ? setMessage('Карта валидна') : setMessage('Карта не валидна')
   }
 
   return (
@@ -32,7 +44,7 @@ const MoonAlgorithms = () => {
           </div>
         </div>
         <span className="main__result">
-          {result}
+          {message}
         </span>
       </section>
     </main>
