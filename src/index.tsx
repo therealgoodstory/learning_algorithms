@@ -9,6 +9,7 @@ import store, { history } from "./redux";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import BinarySearch from './components/BinarySearch';
+import MoonAlgorithms from './components/MoonAlgorithm';
 
 const Main = () => (
   <Provider store={store}>
@@ -17,6 +18,7 @@ const Main = () => (
         <Switch>
           <Route exact path="/" render={() => <App />} />
           <Route exact path="/binary-search" render={() => <BinarySearch />} />
+          <Route exact path="/moon-algorithm" render={() => <MoonAlgorithms />} />
         </Switch>
       </HashRouter>
     </ConnectedRouter>

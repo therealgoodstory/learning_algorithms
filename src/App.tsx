@@ -7,6 +7,9 @@ const App = () => {
       <Link to="/binary-search" className="main-nav__link">
         Binary Search
       </Link>
+      <Link to="/moon-algorithm" className="main-nav__link">
+        Moon Algorithm
+      </Link>
     </div>
   );
 }

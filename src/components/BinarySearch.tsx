@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
 import '../styles/binarySearch.css'
+import Navigation from './Navigation'
 
 const BinarySearch = () => {
   const [result, setResult] = useState("")
@@ -32,11 +32,7 @@ const BinarySearch = () => {
 
   return (
     <main className="container">
-      <nav className="main-nav">
-        <Link to="/" className="main-nav__link">
-          HOME
-        </Link>
-      </nav>
+      <Navigation />
       <section className="main">
         <h1 className="main__title">
           Binary search for a number <br /> from 0 to 10 000 000
